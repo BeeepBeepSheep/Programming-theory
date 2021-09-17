@@ -12,6 +12,7 @@ namespace Program
             bool iKnowWhatImDoing = false;
 
             Console.WriteLine("my intiger is: " + myInt + ", my float is: " + myFloat + "my string example is: " + myString + ", my bool(i know what im doing)" + iKnowWhatImDoing);
+            Console.ReadLine();
         }
     }
 }
